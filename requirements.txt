@@ -1,0 +1,7 @@
+anthropic>=0.69          # Claude backend (default)
+python-dotenv>=1.0       # optional: load .env
+pytest>=8                # tests
+# Optional extras
+# opentelemetry-sdk>=1.27                  # TRIAGE_OTEL=1 -> OTel spans
+# azure-ai-agents>=1.1 azure-identity>=1.17  # TRIAGE_BACKEND=foundry
+# azure-monitor-opentelemetry              # Foundry / App Insights tracing
