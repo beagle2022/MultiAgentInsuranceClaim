@@ -1,0 +1,11 @@
+{
+  "_comment": "SYNTHETIC prior-session history. Loaded into the long-term store only when the store is empty (simulates earlier triage runs).",
+  "events": [
+    {"claim_id": "C-1874", "policy_number": "POL-5521", "claim_type": "water_damage", "loss_date": "2025-09-02", "claim_amount": 2900,
+     "recommendation": "route_to_investigator", "flags": ["UW-06"], "triaged_at": "2025-09-05T10:12:00",
+     "run_id": "seed", "summary": "Slow leak under bathroom sink; gradual-damage exclusion suspected, investigator confirmed partial denial."},
+    {"claim_id": "C-1901", "policy_number": "POL-7730", "claim_type": "comprehensive", "loss_date": "2026-04-18", "claim_amount": 420,
+     "recommendation": "auto_approve", "flags": [], "triaged_at": "2026-04-19T09:00:00",
+     "run_id": "seed", "summary": "Hail dents on bonnet, auto-approved."}
+  ]
+}

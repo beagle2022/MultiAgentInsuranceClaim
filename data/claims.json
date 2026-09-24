@@ -1,0 +1,13 @@
+[
+  {"claim_id": "C-2031", "policy_number": "POL-5521", "claim_type": "water_damage", "loss_date": "2026-08-15", "report_date": "2026-08-16", "claim_amount": 8500, "description": "Pipe burst in kitchen"},
+  {"claim_id": "C-2032", "policy_number": "POL-5521", "claim_type": "water_damage", "loss_date": "2026-02-10", "report_date": "2026-02-12", "claim_amount": 4200, "description": "Basement flooding"},
+  {"claim_id": "C-2033", "policy_number": "POL-9981", "claim_type": "theft", "loss_date": "2026-08-30", "report_date": "2026-08-30", "claim_amount": 25000, "description": "Jewelry theft, filed 3 days after policy start"},
+  {"claim_id": "C-2034", "policy_number": "POL-4410", "claim_type": "fire", "loss_date": "", "report_date": "2026-08-20", "claim_amount": 0, "description": "Missing loss date and amount - flag"},
+  {"claim_id": "C-2035", "policy_number": "POL-7730", "claim_type": "collision", "loss_date": "2026-09-05", "report_date": "2026-09-01", "claim_amount": 3100, "description": "Rear-ended at traffic signal"},
+  {"claim_id": "C-2036", "policy_number": "POL-55X1", "claim_type": "wind", "loss_date": "2026-08-02", "report_date": "2026-08-04", "claim_amount": 1800, "description": "Fence panels blown down"},
+  {"claim_id": "C-2037", "policy_number": "POL-7730", "claim_type": "glass", "loss_date": "2026-09-10", "report_date": "2026-09-11", "claim_amount": 650, "description": "Windshield chipped by road debris"},
+  {"claim_id": "C-2037", "policy_number": "POL-7730", "claim_type": "glass", "loss_date": "2026-09-10", "report_date": "2026-09-12", "claim_amount": 650, "description": "Windshield chipped by road debris (resubmitted)"},
+  {"claim_id": "C-2038", "policy_number": "POL-7730", "claim_type": "collision", "loss_date": "2026-09-14", "report_date": "2026-09-15", "claim_amount": 29600, "description": "Vehicle total loss after highway collision"},
+  {"claim_id": "C-2039", "policy_number": "POL-5521", "claim_type": "flood", "loss_date": "2026-07-22", "report_date": "2026-07-24", "claim_amount": 6700, "description": "Surface water entered ground floor during storm"},
+  {"claim_id": "C-2040", "policy_number": "POL-8812", "claim_type": "wind", "loss_date": "2026-05-10", "report_date": "2026-07-15", "claim_amount": 3200, "description": "Roof shingles lifted in storm, noticed later"}
+]

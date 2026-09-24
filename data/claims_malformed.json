@@ -1,0 +1,6 @@
+[
+  {"claim_id": "C-3001", "policy_number": "POL-7730", "claim_type": "glass", "loss_date": "2026-09-01", "report_date": "2026-09-02", "claim_amount": 500, "description": "OK row"},
+  {"claim_id": "C-3002", "policy_number": "POL-7730", "claim_type": "collision", "loss_date": "01/09/2026", "report_date": "2026-09-02", "claim_amount": "twelve hundred", "description": "Bad date format and non-numeric amount"},
+  "this row is not an object",
+  {"policy_number": "POL-5521", "claim_type": "fire", "loss_date": "2026-09-03", "report_date": "2026-09-04", "claim_amount": 1500}
+]
